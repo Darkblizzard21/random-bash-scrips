@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2023 Pirmin Pfeifer
 
 hangups=0 
 quits=0 

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2023 Pirmin Pfeifer
 
 # explane usage
 if [ "$#" -eq 0 ]; then

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2023 Pirmin Pfeifer
 
 # Überprüfen, ob die Anzahl der Parameter korrekt ist
 if [ "$#" -ne 2 ] && [ "$#" -ne 3 ]; then

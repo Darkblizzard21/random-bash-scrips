@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2023 Pirmin Pfeifer
 
 trap "echo Booh! You thought you cout exit me with ^C" SIGINT SIGTERM
 echo "pid is $$"

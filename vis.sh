@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2023 Pirmin Pfeifer
 
 if [ "$#" -ne 2 ]; then
     echo "Usage: folderToVis ouputFile"
